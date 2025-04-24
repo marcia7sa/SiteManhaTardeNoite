@@ -1,0 +1,31 @@
+
+        body{
+            background-color: rgb(130, 239, 243);
+                    }
+        header{
+            color: white;
+           /* font:normal 30px verdana;*/
+            text-align: center;
+        
+        }
+        section{
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin: auto;
+            width: 500px;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.247); /* Usar a barra de transparência para suavisar a sombra. Para isso, é só clicar sobre a caixinha de cor e descer a barra de trasparência. */
+        }
+        footer{
+            color: white;
+            font: normal 13px arial;
+            margin-top: 20px;
+            text-align: center;
+            font-style: italic;
+            
+        }
+        div{
+            text-align: center;
+            padding: 8px;
+        }
+        
